@@ -59,6 +59,7 @@ Embarking on your coding adventure or looking to level up your skills? Microsoft
    If you're an aspiring entrepreneur or involved in a startup, Microsoft's startup resources are tailored just for you! 💡
 
 🔟 **Tech Community: Connect, Collaborate, Contribute**
+
    🔗 [TechCommunity.Microsoft.com](https://techcommunity.microsoft.com/?WT.mc_id=academic&wt.mc_id=studentamb_282488)
 
    Engage with like-minded tech enthusiasts, ask questions, and be part of the broader Microsoft Tech Community. 🤝
