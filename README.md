@@ -5,7 +5,6 @@ Hey Developers! 👩‍💻👨‍💻
 Embarking on your coding adventure or looking to level up your skills? Microsoft has got your back! 🌐 Here's a curated list of must-know websites that will supercharge your development experience:
 
 - 🔗 [Azure](https://azure.microsoft.com/?WT.mc_id=academic&wt.mc_id=studentamb_282488) 🔗 [Cloudblogs](https://cloudblogs.microsoft.com/?WT.mc_id=academic&wt.mc_id=studentamb_282488) 🔗 [Code](https://code.visualstudio.com/?WT.mc_id=academic&wt.mc_id=studentamb_282488) 🔗 [Devblogs](https://devblogs.microsoft.com/?WT.mc_id=academic&wt.mc_id=studentamb_282488) 🔗 [Developer](https://developer.microsoft.com/?WT.mc_id=academic&wt.mc_id=studentamb_282488) 🔗 [Learn](https://learn.microsoft.com/?WT.mc_id=academic&wt.mc_id=studentamb_282488) 🔗 [SocialMSDN](https://social.msdn.microsoft.com/?WT.mc_id=academic&wt.mc_id=studentamb_282488) 🔗 [SocialTechNet](https://social.technet.microsoft.com/?WT.mc_id=academic&wt.mc_id=studentamb_282488)
-- 🔗 [Developer](https://developer.microsoft.com/?WT.mc_id=academic&wt.mc_id=studentamb_282488) 🔗 [Learn](https://learn.microsoft.com/?WT.mc_id=academic&wt.mc_id=studentamb_282488) 🔗 [SocialMSDN](https://social.msdn.microsoft.com/?WT.mc_id=academic&wt.mc_id=studentamb_282488) 🔗 [SocialTechNet](https://social.technet.microsoft.com/?WT.mc_id=academic&wt.mc_id=studentamb_282488)
 - 🔗 [TechCommunity](https://techcommunity.microsoft.com/?WT.mc_id=academic&wt.mc_id=studentamb_282488)
 
 1️⃣ **Azure: Your Cloud Powerhouse**
