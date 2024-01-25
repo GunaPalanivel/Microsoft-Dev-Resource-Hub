@@ -4,6 +4,10 @@ Hey Developers! 👩‍💻👨‍💻
 
 Embarking on your coding adventure or looking to level up your skills? Microsoft has got your back! 🌐 Here's a curated list of must-know websites that will supercharge your development experience:
 
+ - 🔗 [Azure.Microsoft.com](https://azure.microsoft.com/?WT.mc_id=academic&wt.mc_id=studentamb_282488)  🔗 [Cloudblogs.Microsoft.com](https://cloudblogs.microsoft.com/?WT.mc_id=academic&wt.mc_id=studentamb_282488)  🔗 [Code.VisualStudio.com](https://code.visualstudio.com/?WT.mc_id=academic&wt.mc_id=studentamb_282488)  🔗 [Devblogs.Microsoft.com](https://devblogs.microsoft.com/?WT.mc_id=academic&wt.mc_id=studentamb_282488)
+ - 🔗 [Developer.Microsoft.com](https://developer.microsoft.com/?WT.mc_id=academic&wt.mc_id=studentamb_282488)  🔗 [Learn.Microsoft.com](https://learn.microsoft.com/?WT.mc_id=academic&wt.mc_id=studentamb_282488)  🔗 [Social.MSDN.Microsoft.com](https://social.msdn.microsoft.com/?WT.mc_id=academic&wt.mc_id=studentamb_282488)  🔗 [Social.TechNet.Microsoft.com](https://social.technet.microsoft.com/?WT.mc_id=academic&wt.mc_id=studentamb_282488)
+ - 🔗 [TechCommunity.Microsoft.com](https://techcommunity.microsoft.com/?WT.mc_id=academic&wt.mc_id=studentamb_282488)
+
 1️⃣ **Azure: Your Cloud Powerhouse**
 
    🔗 [Azure.Microsoft.com](https://azure.microsoft.com/?WT.mc_id=academic&wt.mc_id=studentamb_282488)
